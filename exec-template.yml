@@ -4,7 +4,7 @@
     entrypoint: [""]
   variables:
     PLACEHOLDER
-  stage: <STAGE_NAME>
+  stage: exec
   before_script:
     - export CI_JOB_TIMESTAMP=$(date --utc --iso-8601=seconds)
   script:
