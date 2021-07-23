@@ -1,2 +1,2 @@
 # ci-cd-docker-check
-CI/CD script to assist in Docker container status.
+CI/CD exec template with dynamic Docker container status.
